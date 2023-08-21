@@ -30,7 +30,7 @@ In this project, you'll learn how to:
    pip install -r requirements.txt
    ```
 
-5. **Explore the Jupyter Notebook**: Open the provided Jupyter Notebook (`iris_prediction.ipynb`) to follow the step-by-step guide. The notebook explains each stage of the machine-learning pipeline, making it easy for you to learn and experiment.
+5. **Explore the Jupyter Notebook**: Open the provided Jupyter Notebook (`iris_Prediction.ipynb`) to follow the step-by-step guide. The notebook explains each stage of the machine-learning pipeline, making it easy for you to learn and experiment.
 
 6. **Run the Code**: Execute the cells in the notebook sequentially. Feel free to modify and experiment with the code to deepen your understanding.
 
