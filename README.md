@@ -25,16 +25,11 @@ In this project, you'll learn how to:
 
 3. **Set Up Environment**: It's recommended to create a virtual environment for this project to manage dependencies. You can use `venv` or `conda` for this purpose.
 
-4. **Install Dependencies**: Install the required Python libraries using the provided `requirements.txt` file:
-   ```
-   pip install -r requirements.txt
-   ```
+4. **Explore the Jupyter Notebook**: Open the provided Jupyter Notebook (`iris_Prediction.ipynb`) to follow the step-by-step guide. The notebook explains each stage of the machine-learning pipeline, making it easy for you to learn and experiment.
 
-5. **Explore the Jupyter Notebook**: Open the provided Jupyter Notebook (`iris_Prediction.ipynb`) to follow the step-by-step guide. The notebook explains each stage of the machine-learning pipeline, making it easy for you to learn and experiment.
+5. **Run the Code**: Execute the cells in the notebook sequentially. Feel free to modify and experiment with the code to deepen your understanding.
 
-6. **Run the Code**: Execute the cells in the notebook sequentially. Feel free to modify and experiment with the code to deepen your understanding.
-
-7. **Visualize Results**: The notebook includes code for creating visualizations to help you interpret the model's performance and the dataset characteristics.
+6. **Visualize Results**: The notebook includes code for creating visualizations to help you interpret the model's performance and the dataset characteristics.
 
 ## Contribution
 
